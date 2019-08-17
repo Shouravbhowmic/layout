@@ -1,0 +1,14 @@
+.header,.hero,.body,.bar,.footer{
+	background-color: pink;
+}
+.box{
+	height: 50px;
+	background-color: orange;
+	margin-bottom: 5px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
